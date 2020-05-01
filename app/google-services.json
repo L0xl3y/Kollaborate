@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912760717625",
+    "firebase_url": "https://kollaborate-76eca.firebaseio.com",
+    "project_id": "kollaborate-76eca",
+    "storage_bucket": "kollaborate-76eca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912760717625:android:8e66abb1e5609dc42f68e8",
+        "android_client_info": {
+          "package_name": "com.lyfeforcelabs.kollaborate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912760717625-hlibjo7p0qu9ob117j631mc5taq0pln0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqqaDQDxstq3bDLlFFwS8NdtoMnivgM9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912760717625-hlibjo7p0qu9ob117j631mc5taq0pln0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
