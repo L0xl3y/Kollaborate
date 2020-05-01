@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Kollaborate</string>
-    <string name="login">Log in</string>
-    <string name="Email">Email</string>
-    <string name="Password">Password</string>
-    <string name="Register">Register</string>
+    <string name="loginButton">Log in</string>
+    <string name="EmailField">Email</string>
+    <string name="PasswordField">Password</string>
+    <string name="RegisterButton">Register</string>
 </resources>
