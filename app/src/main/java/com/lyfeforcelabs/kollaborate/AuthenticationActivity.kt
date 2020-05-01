@@ -17,5 +17,7 @@ class AuthenticationActivity : AppCompatActivity() {
         // Get a new instance of the firebase auth object.
         firebaseAuth = FirebaseAuth.getInstance()
 
+
+
     }
 }
